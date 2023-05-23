@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=MarisaKernel r20@ Laulan56
+kernel.string=MarisaKernel r23@ Laulan56
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=raphael
 device.name2=raphaelin
 device.name3=cepheus
-supported.versions=11-12
+supported.versions=11-13
 supported.patchlevels=
 '; } # end properties
 
